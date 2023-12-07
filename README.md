@@ -7,7 +7,7 @@ I developed a web application called "CareerCamp Connect," a Placement Cell mana
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Technologies Used]
+- [Technologies Used] (#Technologies Used)
 
 
 ## Features
